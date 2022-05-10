@@ -27,3 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Jogo desenvolvido em reactjs junto ao professor Matheus Battisti.
+
+<br><br>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c26b55e-ad3f-4778-87eb-f2bc63a6ce5f/deploy-status)](https://app.netlify.com/sites/glowing-moxie-51088f/deploys)
